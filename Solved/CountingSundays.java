@@ -1,5 +1,10 @@
-package beginner.Solved;
+package Solved;
 
+/**
+* Solution to Problem #19 on Project Euler
+* Calculates how many Sundays fell on the first of the month in the twentieth century
+* @author: John Healey, 2016-08-25
+*/
 public class CountingSundays {
 	public static void main(String [] args) {
 		int[] monthIncrements = { 3, 0, 3, 2, 3, 2, 3, 3, 2, 3, 2, 3 };
