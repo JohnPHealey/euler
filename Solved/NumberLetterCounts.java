@@ -1,5 +1,10 @@
-package beginner.Solved;
+package Solved;
 
+/**
+* Solution to Problem #17 on Project Euler
+* Finds how many letters are used to write out all the numbers from 1-1000
+* @author: John Healey, 2016-08-25
+*/
 public class NumberLetterCounts {
 	public static void main(String [] args) {
 		int[] small = { 0, 3, 3, 5, 4, 4, 3, 5, 5, 4 };
