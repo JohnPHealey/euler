@@ -1,4 +1,4 @@
-package beginner.Solved;
+package Solved;
 
 /**
 * Solution to Problem #5 on Project Euler
