@@ -1,5 +1,10 @@
-package beginner.Solved;
+package Solved;
 
+/**
+* Solution to Problem #13 on Project Euler
+* Finds the first 10 digits of the sum of one-hundred 50-digit numbers
+* @author: John Healey, 2016-08-21
+*/
 public class LargeSum {
 	public static void main(String [] args) {
 		String[] numbers = {"37107287533902102798797998220837590246510135740250",
