@@ -1,5 +1,10 @@
-package beginner.Solved;
+package Solved;
 
+/**
+* Solution to Problem #8 on Project Euler
+* See https://projecteuler.net/problem=8 for project description
+* @author: John Healey, 2016-08-17
+*/
 public class ProductInASeries {
 	public static void main(String [] args) {
 		String one = "73167176531330624919225119674426574742355349194934" +
