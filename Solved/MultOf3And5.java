@@ -1,8 +1,8 @@
 package Solved;
 
 /**
-* Solution to Problem #7 on Project Euler
-* Finds the 10001st prime number
+* Solution to Problem #1 on Project Euler
+* Finds the sum of all multiples of 3 or 5 below 1000
 * @author: John Healey, 2016-08-12
 */
 public class MultOf3And5 {
