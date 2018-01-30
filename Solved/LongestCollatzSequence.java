@@ -1,8 +1,13 @@
-package beginner.Solved;
+package Solved;
 
 import java.util.ArrayList;
 import java.math.BigInteger;
 
+/**
+* Solution to Problem #14 on Project Euler
+* Finds the longest Collatz sequence (see problem description at https://projecteuler.net/problem=14)
+* @author: John Healey, 2016-08-22
+*/
 public class LongestCollatzSequence {
 	public static void main(String [] args) {
 		
