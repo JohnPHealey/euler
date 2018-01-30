@@ -1,5 +1,10 @@
-package beginner.Solved;
+package Solved;
 
+/**
+* Solution to Problem #9 on Project Euler
+* Finds a*b*c for the special pythagorean triplet where a+b+c=1000
+* @author: John Healey, 2016-08-19
+*/
 public class PythagoreanTriplets {
 	public static void main(String [] args) {
 		
