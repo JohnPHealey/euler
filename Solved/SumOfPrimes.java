@@ -1,5 +1,10 @@
-package beginner.Solved;
+package Solved;
 
+/**
+* Solution to Problem #10 on Project Euler
+* Finds the sum of all the primes below two million.
+* @author: John Healey, 2016-08-20
+*/
 public class SumOfPrimes {
 	public static void main(String [] args) {
 		long sum = 0;
