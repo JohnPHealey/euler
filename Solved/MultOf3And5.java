@@ -1,5 +1,10 @@
-package beginner.Solved;
+package Solved;
 
+/**
+* Solution to Problem #7 on Project Euler
+* Finds the 10001st prime number
+* @author: John Healey, 2016-08-12
+*/
 public class MultOf3And5 {
 	public static void one() {
 		long sum = 0;
