@@ -1,7 +1,12 @@
-package beginner.Solved;
+package Solved;
 
 import java.math.BigInteger;
 
+/**
+* Solution to Problem #20 on Project Euler
+* Finds the sum of the digits of 100!
+* @author: John Healey, 2016-08-28
+*/
 public class FactorialDigitSum {
 
 	public static void main(String [] args) {
