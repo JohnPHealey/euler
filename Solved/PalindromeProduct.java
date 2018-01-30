@@ -1,5 +1,10 @@
-package beginner.Solved;
+package Solved;
 
+/**
+* Solution to Problem #4 on Project Euler
+* Finds the largest palindrome made from the product of two 3-digit numbers
+* @author: John Healey, 2016-08-15
+*/
 public class PalindromeProduct {
 	public static void main(String [] args) {
 		int largest = -1;
