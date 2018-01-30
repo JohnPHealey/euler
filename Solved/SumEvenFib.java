@@ -1,7 +1,12 @@
-package beginner.Solved;
+package Solved;
 
 import java.util.ArrayList;
 
+/**
+* Solution to Problem #2 on Project Euler
+* Finds the sum of the even Fibonnaci numbers that do not exceed 4 million
+* @author: John Healey, 2016-08-17
+*/
 public class SumEvenFib {
 	public static void two() {
 		ArrayList<Integer> numbers = new ArrayList<>();
