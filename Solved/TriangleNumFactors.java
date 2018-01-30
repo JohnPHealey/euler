@@ -1,5 +1,10 @@
-package beginner.Solved;
+package Solved;
 
+/**
+* Solution to Problem #12 on Project Euler
+* See https://projecteuler.net/problem=12 for problem description
+* @author: John Healey, 2016-08-22
+*/
 public class TriangleNumFactors {
 		public static void main(String [] args) {
 			int number = 0;
